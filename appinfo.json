@@ -1,0 +1,18 @@
+{
+  "uuid": "479586b4-2d1c-4992-878d-32738d474af7",
+  "shortName": "dali",
+  "longName": "dali",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
